@@ -10,29 +10,13 @@ function App() {
         <Main
           name="Bill Mahoney"
           job="PRODUCT OWNER"
-          src="/public/images/photo1.png"
+          src="/images/photo1.png"
         />
-        <Main
-          name="Saba Cabrera"
-          job="ART DIRECTOR"
-          src="/public/images/photo2.png"
-        />
-        <Main name="Shae Le" job="TEACH LEAD" src="/public/images/photo3.png" />
-        <Main
-          name="Skylah Lu"
-          job="UX DESIGNER"
-          src="/public/images/photo4.png"
-        />
-        <Main
-          name="Griff Richards"
-          job="DEVERLOPER"
-          src="/public/images/photo5.png"
-        />
-        <Main
-          name="Stan John"
-          job="DEVERLOPER"
-          src="/public/images/photo6.png"
-        />
+        <Main name="Saba Cabrera" job="ART DIRECTOR" src="/images/photo2.png" />
+        <Main name="Shae Le" job="TEACH LEAD" src="/images/photo3.png" />
+        <Main name="Skylah Lu" job="UX DESIGNER" src="/images/photo4.png" />
+        <Main name="Griff Richards" job="DEVERLOPER" src="/images/photo5.png" />
+        <Main name="Stan John" job="DEVERLOPER" src="/images/photo6.png" />
       </div>
 
       <Footer />
